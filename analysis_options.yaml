@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    deprecated_member_use: ignore
+    prefer_collection_literals: ignore
+    prefer_const_constructors: ignore
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    prefer_collection_literals: false
+    prefer_const_constructors: false
+    sort_child_properties_last: false

@@ -1,0 +1,12 @@
+{
+  "name": "Pulse Replay Analytics",
+  "short_name": "Pulse Replay",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#05060A",
+  "theme_color": "#8B5CF6",
+  "description": "Premium analytics for YouTube and YouTube Music Takeout history.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
